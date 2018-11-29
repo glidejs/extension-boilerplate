@@ -1,9 +1,9 @@
 export default function (Glide, Components, Events) {
-  const EXTENSION = {
+  const Extension = {
     mount () {
-
+      console.log('Extension mounted')
     }
   }
 
-  return EXTENSION
+  return Extension
 }

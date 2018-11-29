@@ -4,9 +4,9 @@
   "description": "A boilerplate of extension for Glide.js",
   "author": "Jędrzej Chałubek <jedrzej.chalubek@gmail.com> (http://jedrzejchalubek.com/)",
   "homepage": "https://glidejs.com",
-  "main": "dist/glide.js",
-  "module": "dist/glide.esm.js",
-  "unpkg": "dist/glide.js",
+  "main": "dist/glide-extension.js",
+  "module": "dist/glide-extension.esm.js",
+  "unpkg": "dist/glide-extension.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/glidejs/extension-boilerplate.git"
